@@ -10,4 +10,5 @@ To test/run this program you can use a.) GitHub, to run each cell, b.) Google Co
 ## Usage/Licensing
 This code is restricted with no license, therefore you are allowed to pull/copy this code to see how it runs. Even though it has no license, you are not allowed to make changes to the source via push. Nor are you allowed to take credit for this program.
 
-Thank you
+**Thank you,**
+**Thomas**
